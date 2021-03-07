@@ -6,7 +6,9 @@ This will enable you to get group contacts from your whatsapp specific group you
 ```shell
 git clone https://github.com/erfan4lx/WhatsApp-Group-Contacts-Scraper
 ```
-Show on Youtube : https://youtu.be/viz8PmQITSg
+Show full video on YouTube : https://youtu.be/ObTv_8LstM8
+
+Show demo video on Instagram : https://www.instagram.com/p/CMHjebLAjKy
 
 ## 🚀How to use it?
 1. Open your `"Whatsapp Web"` from a browser: "https://web.whatsapp.com/"
