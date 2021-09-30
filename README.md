@@ -10,6 +10,12 @@ Show full video on YouTube : https://youtu.be/ObTv_8LstM8
 
 Show demo video on Instagram : https://www.instagram.com/p/CMHjebLAjKy
 
+Contact with me to get the Password of Zip file on :
+
+ Telegram : https://t.me/erfan4lx1
+  
+ Email : erfan4lx@gmail.com
+
 ## 🚀How to use it?
 1. Open your `"Whatsapp Web"` from a browser: "https://web.whatsapp.com/"
 2. Select a `Whatsapp Group`
